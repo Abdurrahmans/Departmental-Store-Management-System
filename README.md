@@ -1,5 +1,5 @@
 # Project Title
-Dipartmental Store Management System
+Departmental Store Management System
 ## Getting Started
 This project in C Department Store Management System is a simple console built application without graphic. In this project, you can manage a typical ‘A R’ department store. I can add Products, edit Products, search, delete and display the Products.
 
